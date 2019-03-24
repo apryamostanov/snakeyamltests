@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.yaml.snakeyaml.DumperOptions;
 import org.yaml.snakeyaml.Yaml;
 
-public class LiteralStyleTest {
+public class LiteralStyleLineBreakTest {
 
     @Test
     public void test() {
